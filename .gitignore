@@ -1,0 +1,102 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python packages
+*.egg
+*.egg-info/
+dist/
+build/
+develop-eggs/
+.eggs/
+.installed.cfg
+lib/
+lib64/
+parts/
+sdist/
+var/
+
+# Logs and temporary files
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.tmp
+*.bak
+*.swp
+*.swo
+*.old
+*.sublime-workspace
+*.sublime-project
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows files
+Thumbs.db
+desktop.ini
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# JetBrains IDEs
+.idea/
+.idea_modules/
+*.iws
+*.iml
+*.ipr
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# PyQt generated files
+*.ui
+*.qrc
+
+# PyInstaller
+*.spec
+
+# dotenv files
+.env
+.env.*.local
+
+# Operating system generated files
+.DS_Store
+Thumbs.db
+
+# Editor backups
+*~
+*.swp
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/modules.xml
+.idea/StringingInformation.iml
+.idea/vcs.xml
+.idea/workspace.xml
