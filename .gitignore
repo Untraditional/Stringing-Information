@@ -100,3 +100,8 @@ Thumbs.db
 .idea/StringingInformation.iml
 .idea/vcs.xml
 .idea/workspace.xml
+backup/stringing_backup.xlsx
+backup/last_backup.txt
+Output/StringingTrackerInstaller.exe
+requirements.txt
+TennisStringingTracker.iss
